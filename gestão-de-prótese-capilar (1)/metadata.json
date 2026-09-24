@@ -1,6 +1,0 @@
-{
-  "name": "CK Próteses Capilares",
-  "description": "Sistema completo, rápido e integrado de gestão de clientes, agenda com sincronização no Google Calendar, e controle financeiro para clínicas de prótese capilar.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
